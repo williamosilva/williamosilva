@@ -5,7 +5,7 @@
 Combino habilidades técnicas de desenvolvimento com um olhar apurado para UI/UX, criando experiências web intuitivas e visualmente impactantes.
 
 - 📫 Entre em contato comigo: **williamsilva20062005@gmail.com**
-- <div align="right">
+<div align="right">
 
 [![](https://visitcount.itsvg.in/api?id=WilliamSilvaOliveiraa&icon=8&color=6)](https://visitcount.itsvg.in)
 
