@@ -59,15 +59,6 @@ Atualmente trabalhando no [Avantpro](https://avantpro.com.br/) & [BonoERP](https
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🎨 Especialidades:
-
-- Desenvolvimento Full Stack
-- UI/UX Design
-- Criação de Identidade Visual
-- Desenvolvimento Mobile
-- Edição de Vídeo e Motion Graphics
-- Design Gráfico
-
 ## 📊 GitHub:
 
 <div align="center">
