@@ -3,7 +3,7 @@
 ### Desenvolvedor Full Stack com paixão por Frontend e Design
 
 Combino habilidades técnicas de desenvolvimento com um olhar apurado para UI/UX, criando experiências web intuitivas e visualmente impactantes.
-Atualmente trabalhando no [Avantpro](https://avantpro.com.br/)
+Atualmente trabalhando no [Avantpro](https://avantpro.com.br/) & [BonoERP](https://bonoerp.com/)
 
 - 📫 Entre em contato comigo: **williamsilva20062005@gmail.com**
 <div align="right">
