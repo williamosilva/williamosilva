@@ -65,7 +65,7 @@ Atualmente trabalhando no [Avantpro](https://avantpro.com.br/) & [BonoERP](https
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=WilliamSilvaOliveiraa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&private_count=true&rank_icon=github&show_icons=true&title_color=2f80ed&text_color=434d58&icon_color=2f80ed&bg_color=ffffff)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WilliamSilvaOliveiraa&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=350&hide_longest_streak=true&background=FFFFFF&ring=2F80ED&fire=2F80ED&currStreakNum=434D58&sideNums=434D58&currStreakLabel=434D58&sideLabels=434D58&dates=434D58)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=WilliamSilvaOliveiraa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&private_count=true&rank_icon=github&show_icons=true&title_color=2f80ed&text_color=434d58&icon_color=2f80ed&bg_color=f0f0f0)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WilliamSilvaOliveiraa&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=350&hide_longest_streak=true&background=f0f0f0&ring=2F80ED&fire=2F80ED&currStreakNum=434D58&sideNums=434D58&currStreakLabel=434D58&sideLabels=434D58&dates=434D58)](https://git.io/streak-stats)
 
 </div>
