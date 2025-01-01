@@ -1,5 +1,3 @@
-Vou ajustar todas as badges para terem fundo branco e texto preto. Aqui está o README formatado:
-
 # ⚡Olá, eu sou William Silva!
 
 ### Desenvolvedor Full Stack com paixão por Frontend e Design
