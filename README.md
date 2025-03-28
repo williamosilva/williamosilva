@@ -9,7 +9,7 @@
 - 19 yo;
 - Coding any type of stuff;
 - Learning so many things so I can share with the others in the future;
-- Currently working on two projects: a Martech integrated with the Mercado Livre and an ERP with several functions integrated with multiple marketplaces;
+- Currently working on two projects: a BaaS integrated with Stripe and a climate data delivery flow via communication applications;
 - Now trying to find a balance between learning programming and improving my English;
 - When I get tired of the computer I like to talk about manga and e-sports;
 
