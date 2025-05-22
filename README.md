@@ -6,7 +6,6 @@
 ---
 # About Me ☕️
 
-- 20 yo;
 - Coding any type of stuff;
 - Learning so many things so I can share with the others in the future;
 - Currently working on two projects: a BaaS integrated with Stripe and a climate data delivery flow via communication applications;
