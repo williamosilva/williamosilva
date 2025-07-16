@@ -1,9 +1,4 @@
 
-# Hey, Tech! 🧑‍💻
-
-**Let's talk about computer stuff**  
-
----
 # About Me ☕️
 
 - Coding any type of stuff;
